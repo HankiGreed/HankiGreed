@@ -17,7 +17,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Flash Loans, Flashier Attacks !](http://blogchain.wtf/post/flash-loans-flashier-attacks/)
 - [Getting Started With Ethereum](http://blogchain.wtf/post/getting-started-with-ethereum/)
-- [About](http://blogchain.wtf/about/)
 <!-- BLOG-POST-LIST:END -->
 
 # :bar_chart: Stats 
