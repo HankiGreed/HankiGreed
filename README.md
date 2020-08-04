@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Golang, TypeScript.
 - 👯 I’m looking to collaborate on anything Blockchain.
 - 💬 Ask me about React, Express.
-- ⚡ Fun fact: Time flies when you are on [Reddit](https://reddit.com), Literally !
+- ⚡ Fun fact: If you add all the divisors of 1 - 9, You get 69 ! 
 
 # :sparkles: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
