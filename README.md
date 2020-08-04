@@ -8,6 +8,7 @@
 <br/>
 [<img src="https://profile-counter.glitch.me/HankiGreed/count.svg" />](https://profile-counter.glitch.me)
 </div>
+---
 
 - 🔭 I’m currently working on [Innocent](https://github.com/HankiGreed/Innocent).
 - 🌱 I’m currently learning Golang, TypeScript.
