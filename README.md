@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kiranravihegde/)
 [![Blog][BlogBadge]][BlogURL]
 <br/>
-[<img src="https://profile-counter.glitch.me/HankiGreed/count.svg" />](https://profile-counter.glitch.me)
+<img src="https://profile-counter.glitch.me/HankiGreed/count.svg" />
 </div>
 
 ---
