@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Golang, TypeScript.
 - 👯 I’m looking to collaborate on anything Blockchain.
 - 💬 Ask me about React, Express.
-- ⚡ Fun fact: If you add all the divisors of 1 - 9, You get 69 ! 
+- ⚡ Fun fact: If you add all the divisors of 1 - 9, You get 69 :laughing: ! 
 
 # :sparkles: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
